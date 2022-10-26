@@ -4,4 +4,5 @@
 - [202122-COMP517 - Programming Fundamentals](https://github.com/saeth40/MSc-Data-Science-and-AI-U-of-Liverpool/tree/main/202122-COMP517-Programming%20Fundamentals)
 - [202122-COMP518 - Database and Information Systems](https://github.com/saeth40/MSc-Data-Science-and-AI-U-of-Liverpool/tree/main/202122-COMP518%20-%20Database%20and%20Information%20Systems)
 - [202122-COMP337/COMP527- Data Mining and Visualisation](https://github.com/saeth40/MSc-Data-Science-and-AI-U-of-Liverpool/tree/main/202122-COMP527-%20Data%20Mining%20and%20Visualisation)
-- [202122-COMP532 - Machine Learning and BioInspired Optimisation]()
+- [202122-COMP532 - Machine Learning and BioInspired Optimisation](https://github.com/saeth40/MSc-Data-Science-and-AI-U-of-Liverpool/tree/main/202122-COMP532%20-%20Machine%20Learning%20and%20BioInspired%20Optimisation)
+
