@@ -1,0 +1,10 @@
+Assignment: 202122-COMP517 - Programming Fundamentals
+Grade: 9.5
+General feedback:
+
+
+Comments:
+cache.py:9:1: Nice, clean implementation.
+cache.py:28:1: Using a dictionary for the page frequency map is probably the most elegant design choice. You can also use a list of lists, but it is a bit less intuitive.
+cache.py:39:1: Better to do this explicitly with a for loop, for the code to be more easily readable.
+cache.py:63:1: Better to do this explicitly with a for loop, for the code to be more easily readable.
