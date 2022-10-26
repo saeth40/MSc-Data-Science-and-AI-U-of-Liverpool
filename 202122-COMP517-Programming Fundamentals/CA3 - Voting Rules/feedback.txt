@@ -1,0 +1,10 @@
+Assignment: 202122-COMP517 - Programming Fundamentals
+Grade: 10
+General feedback:
+Code presented great, commented thoroughly.
+Passes all autotests without any issue.
+Good choice of variable names.
+Nothing that appears redundant/overly complicated/too vague etc.
+Very well done.
+
+Comments:
