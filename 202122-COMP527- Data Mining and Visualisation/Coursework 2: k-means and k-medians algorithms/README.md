@@ -22,4 +22,4 @@ You are allowed to use
 - matplotlib for plotting; and
 - pandas.read_csv, csv.reader, or similar modules only for reading data from the files.
 However, it is not a requirement of the assignment to use any of those libraries.
-You must provide a README file describing how to run your code to re-produce your result
+You must provide a README file describing how to run your code to re-produce your results
