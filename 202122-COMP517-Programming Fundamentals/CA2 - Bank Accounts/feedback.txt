@@ -1,0 +1,11 @@
+Assignment: 202122-COMP517 - Programming Fundamentals
+Grade: 9.595
+General feedback:
+
+
+Comments:
+accounts.py:13:1: You could also list the methods with their arguments and their return types here.
+accounts.py:18:1: Not required by the brief, but I understand why you include it.
+accounts.py:63:1: Here you could provide a sensible error message to the user.
+accounts.py:71:1: You could mention the type here, similarly for other docstrings.
+accounts.py:94:1: The message that your print to the user here could be more informative. 
