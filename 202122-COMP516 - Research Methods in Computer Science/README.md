@@ -4,3 +4,6 @@ This module is intended to provide a deep and systematic understanding of the na
 This module is delivered in the first semester as an MSc module of the Department of Computer Science at the University of Liverpool.
 
 The module coordinators are Dr. Othon Michail and Dr. Angrosh Mandya.
+
+# Topic
+Measures of Generalisation for Deep Reinforcement Learning
