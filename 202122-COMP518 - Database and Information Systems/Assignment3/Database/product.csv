@@ -1,0 +1,13 @@
+pid,pname,ptype,pcolor
+1,tool1,tool,red
+2,tool2,tool,blue
+3,toy1,toy,blue
+4,toy2,toy,NULL
+5,wear1,wear,red
+6,wear2,wear,blue
+7,gadget1,gadget,blue
+8,gadget2,gadget,NULL
+9,drink1,drink,red
+10,drink2,drink,red
+11,snack1,snack,blue
+12,snack2,snack,red
