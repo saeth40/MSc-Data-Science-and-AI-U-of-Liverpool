@@ -32,7 +32,10 @@
 Performance analysis of multiple supervised learning methods for solving a binary classification problem
 
 ### PROJECT GOAL: 
-Write a python program to compare the performance of three different classification methods selected among the ones explored in our lectures (except for neural networks). 
+Write a python program to compare the performance of three different classification methods selected among the ones explored in our lectures (except for neural networks).
+
+### DATASET: 
+The dataset used in this project is the Pima Indians Diabetes Database - https://www.kaggle.com/uciml/pima-indians-diabetes-database
 
 # SECOND ASSIGNMENT - REGRESSION WITH NEURAL NETWORKS
 ### TOPIC: 
@@ -45,3 +48,15 @@ Write a python program to create and test a neural network for solving a regress
 The dataset used in this project is the House Sales in King County, USA dataset - https://www.kaggle.com/harlfoxem/housesalespredictionLinks to an external site.  
 
 This database contains data related to different houses for sale in King County, USA. The price of each house depends on a number of factors, such as the number of bedrooms and the size of the house. The aim of the project is to predict the house price based on these features. 
+
+# THIRD ASSIGNMENT - IMAGE CLASSIFICATION
+### TOPIC: 
+Solving Image Classification Problems with Convolutional Neural Networks
+
+### PROJECT GOAL: 
+This project consists of two goals: (1) compare the performance of multiple CNN pre-trained models studied in class and (2) propose a new model that can improve the performance of the best pre-trained model. 
+
+### DATASET:  
+The dataset used in this project is the Chest X-ray dataset: https://www.kaggle.com/datasets/prashant268/chest-xray-covid19-pneumonia
+
+This database contains X-ray images from healthy patients and patients with either covid-19 or pneumonia. This consists, therefore, of a multiclass classification problem. All images are in grayscale and of the same size.
